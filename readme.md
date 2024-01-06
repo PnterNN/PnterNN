@@ -16,3 +16,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=PnterNN&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Profile Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnterNN&layout=compact&theme=vision-friendly-dark&count_private=true"><br>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/018cd354-516b-4075-b139-61022b14fded.svg)](https://wakatime.com/@018cd354-516b-4075-b139-61022b14fded)
