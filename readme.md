@@ -13,4 +13,5 @@ I am studying Computer Programming at Istanbul Commerce University. Fueled by my
 -  **Database:** SQL, MYSQL, MongoDB
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=PnterNN&theme=dark&hide_border=true)]([https://git.io/streak-stats](https://pnternn.github.io/website/))
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PnterNN&theme=transparent&hide_border=true)]([https://git.io/streak-stats](https://pnternn.github.io/website/))
