@@ -17,4 +17,15 @@ I am studying Computer Programming at Istanbul Commerce University. Fueled by my
 [![GitHub Streak](https://streak-stats.demolab.com?user=PnterNN&theme=transparent&hide_border=true)]([https://git.io/streak-stats](https://pnternn.github.io/website/))
 
 <!--START_SECTION:waka-->
+
+```C#
+From: 03 January 2024 - To: 16 October 2024
+
+Total Time: 565 hrs 12 mins
+
+C#                     210 hrs 59 mins >>>>>>>>>----------------   35.95 %
+Java                   152 hrs 47 mins >>>>>>>------------------   26.03 %
+C++                    24 hrs 13 mins  >------------------------   04.13 %
+```
+
 <!--END_SECTION:waka-->
