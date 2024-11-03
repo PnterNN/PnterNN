@@ -19,13 +19,13 @@ I am studying Computer Programming at Istanbul Commerce University. Fueled by my
 <!--START_SECTION:waka-->
 
 ```C#
-From: 03 January 2024 - To: 31 October 2024
+From: 03 January 2024 - To: 02 November 2024
 
-Total Time: 629 hrs 7 mins
+Total Time: 630 hrs 50 mins
 
-C#                     223 hrs 22 mins >>>>>>>>>----------------   34.12 %
-Java                   152 hrs 47 mins >>>>>>-------------------   23.34 %
-TypeScript             34 hrs 49 mins  >------------------------   05.32 %
+C#                     224 hrs 10 mins >>>>>>>>>----------------   34.15 %
+Java                   152 hrs 47 mins >>>>>>-------------------   23.27 %
+TypeScript             34 hrs 59 mins  >------------------------   05.33 %
 ```
 
 <!--END_SECTION:waka-->
