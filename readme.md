@@ -29,3 +29,4 @@ TypeScript             71 hrs 48 mins  >>-----------------------   09.48 %
 ```
 
 <!--END_SECTION:waka-->
+![WakaTime Stats](https://wakatime.com/share/@PnterNN/99ed07e6-1630-4363-822c-4c27471c8419.svg)
