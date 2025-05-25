@@ -19,12 +19,12 @@ I am a Computer Programming graduate from Istanbul Commerce University. Fueled b
 <!--START_SECTION:waka-->
 
 ```C#
-From: 03 January 2024 - To: 22 May 2025
+From: 03 January 2024 - To: 23 May 2025
 
-Total Time: 1,345 hrs 42 mins
+Total Time: 1,351 hrs 2 mins
 
-C#                     561 hrs 35 mins >>>>>>>>>>---------------   40.77 %
-Java                   160 hrs 8 mins  >>>----------------------   11.63 %
+C#                     563 hrs 31 mins >>>>>>>>>>---------------   40.74 %
+Java                   160 hrs 8 mins  >>>----------------------   11.58 %
 ```
 
 <!--END_SECTION:waka-->
