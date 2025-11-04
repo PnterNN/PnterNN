@@ -19,7 +19,7 @@ Passionate Software Engineer with expertise in full-stack development and automa
 <!--START_SECTION:waka-->
 
 ```C#
-From: 03 January 2024 - To: 01 November 2025
+From: 03 January 2024 - To: 02 November 2025
 
 Total Time: 1,927 hrs 38 mins
 
