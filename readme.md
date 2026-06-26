@@ -14,7 +14,7 @@
   <a href="https://medium.com/@kubilaybaltaoglu">
     <img src="https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://pnternn.github.io/website/">
+  <a href="https://pnternn.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </p>
