@@ -1,21 +1,23 @@
-<h2> Hi, I'm Kubilay Baltaoğlu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
-<h3>Passionate Software Engineer specializing in full-stack development and .NET desktop applications.</h3>
+<div align="center">
+
+# ⚡ KUBİLAY BALTAOĞLU
+### Software Engineer & .NET Enterprise Solutions Developer
 
 <p align="center">
+  <a href="https://pnternn.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
   <a href="https://www.linkedin.com/in/kubilay-baltao%C4%9Flu-a16a40276/">
-    <img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/PntherNN">
-    <img src="https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://discordapp.com/users/418823231538200609">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://medium.com/@kubilaybaltaoglu">
-    <img src="https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://pnternn.github.io/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
@@ -25,56 +27,83 @@
   </a>
 </p>
 
----
-
-### 🚀 About Me
-
-I am a passionate Software Engineer specializing in full-stack development and automation solutions. I am currently pursuing my Bachelor's degree in Software Engineering at Dogus University while working as a .NET Developer at Stellar Teknoloji, where I develop innovative automation applications for the fuel industry. My journey from game development to enterprise solutions has shaped my versatile approach to problem-solving and continuous learning.
-
-- 🎓 &nbsp; I'm currently studying **Software Engineering at Dogus University**.
-- 💼 &nbsp; I'm working as a **.NET Developer at Stellar Teknoloji**.
-- 🌱 &nbsp; I’m currently learning more about **Unreal Engine 5 and game development principles**.
-
-### 🛠️ My Tech Stack
-
-Here's a breakdown of the technologies I use:
-
-#### 💻 Backend
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-#### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-#### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-#### ☁️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-</p>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+## 💡 Engineering Profile
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Who I Am</h3>
+      <p>
+        I am a full-stack software developer focused on building high-performance automation software and backend systems. Combining academic foundation with industry experience, I specialize in commercial architecture design and real-time operational workflows.
+      </p>
+      <ul>
+        <li>🏢 <b>Current Role:</b> .NET Developer @ <i>Stellar Teknoloji</i></li>
+        <li>🎓 <b>Education:</b> B.S. Software Engineering @ <i>Dogus University</i></li>
+        <li>🎯 <b>Core Focus:</b> Fuel Industry Automation & Enterprise Backend Systems</li>
+        <li>🎮 <b>R&D Interest:</b> Unreal Engine 5 & C++ Game Architecture</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>⚡ Quick Highlights</h3>
+      <p>
+        <b>Core Architecture:</b><br>
+        <code>C#</code> • <code>.NET Core</code> • <code>Microservices</code>
+      </p>
+      <p>
+        <b>Database Expertise:</b><br>
+        <code>SQL Server</code> • <code>MongoDB</code> • <code>MySQL</code>
+      </p>
+      <p>
+        <b>DevOps & Infrastructure:</b><br>
+        <code>Docker</code> • <code>Redis</code> • <code>Prometheus</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Ecosystem
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend Development** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
+| **Frontend & UI** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> |
+| **Data & Storage** | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> |
+| **DevOps & Monitoring** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"> |
+
+---
+
+## 📊 Developer Activity Dashboard
+
+<div align="center">
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-xi-eight-39.vercel.app/api?username=PnterNN&theme=transparent&show_icons=true&hide_border=true&title_color=0077B5&text_color=777777" alt="Kubilay's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-xi-eight-39.vercel.app/api/top-langs/?username=PnterNN&theme=transparent&hide_border=true&layout=compact&title_color=0077B5&text_color=777777" alt="Kubilay's Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PnterNN&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Kubilay's GitHub Stats">
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnterNN&theme=transparent&hide_border=true&layout=compact" alt="Kubilay's Top Languages">
-  <br><br>
-  <img align="center" src="https://streak-stats.demolab.com?user=PnterNN&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PnterNN&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
+  <p><sub>Built with passion for clean code and high-availability architecture.</sub></p>
+  <img src="https://komarev.com/ghpvc/?username=PnterNN&label=Profile+Views&color=0077B5&style=flat-square" alt="Profile Views" />
+</div>
