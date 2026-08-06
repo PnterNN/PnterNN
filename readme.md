@@ -100,10 +100,3 @@
 </p>
 
 </div>
-
----
-
-<div align="center">
-  <p><sub>Built with passion for clean code and high-availability architecture.</sub></p>
-  <img src="https://komarev.com/ghpvc/?username=PnterNN&label=Profile+Views&color=0077B5&style=flat-square" alt="Profile Views" />
-</div>
