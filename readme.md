@@ -36,7 +36,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 Who I Am</h3>
+      <h3>👨‍💻 Who Am I?</h3>
       <p>
         I am a full-stack software developer focused on building high-performance automation software and backend systems. Combining academic foundation with industry experience, I specialize in commercial architecture design and real-time operational workflows.
       </p>
